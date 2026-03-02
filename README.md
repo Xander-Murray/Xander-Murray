@@ -19,4 +19,10 @@ me at xm720870@gmail.com
 
 # Leetcode Stats:
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/punkkluvv?theme=nord&font=Ubuntu)
+![LeetCode Stats](https://leetcard.jacoblin.cool/punkkluvv?theme=nord&font=Ubuntu)'
+
+
+# Monkeytype Stats:
+
+![Monkeytype Stats](https://monkeytypecard.vercel.app/monkeytype.svg?username=punkk&theme=dev&timeValue=15&wordValue=10)
+
