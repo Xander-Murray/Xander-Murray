@@ -24,5 +24,5 @@ me at xm720870@gmail.com
 
 # Monkeytype Stats:
 
-![Monkeytype Stats](https://monkeytypecard.vercel.app/monkeytype.svg?username=punkk&theme=dev&timeValue=15&wordValue=10)
+![Monkeytype Stats](https://monkeytypecard.vercel.app/monkeytype.svg?username=punkk&theme=dracula&timeValue=15&wordValue=10)
 
