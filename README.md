@@ -1,6 +1,6 @@
   ### Hello I'm Xander!
 
-This GitHub is basically a collection of my projects over time, both for portfolio stuff and just to keep a record of what I’ve built.
+This GitHub is a collection of my projects over time, both for portfolio stuff and just to keep a record of what I’ve built.
 
 Some of my older work is definitely not perfect, and I can already see things I would do way better now, but I still keep it up because it shows my progress. Those projects helped me learn, improve, and get to where I am now, so they still matter to me.
 
